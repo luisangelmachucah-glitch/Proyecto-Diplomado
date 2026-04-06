@@ -1,4 +1,5 @@
 # Priorización municipal del riesgo para el patrimonio cultural en México
+# https://youtu.be/n_BvGiRLNgg
 
 Este repositorio compila los insumos principales del proyecto final del Diplomado en Ciencia de Datos.  
 El objetivo es construir una metodología de priorización municipal que combine:
